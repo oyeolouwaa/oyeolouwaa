@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Banner" width="100%" />
 
-[![GitHub Stats](https://img.shields.io/badge/PROFIL-GÉNÉRATEUR_D'EXPLORATION-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oyeolouwaa)
+[![LinkedIn](https://img.shields.io/badge/PROFIL-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyéassogba)
 [![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_36_MOIS_(NOV._2026)-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://linkedin.com/in/oyéassogba)
 [![Contact](https://img.shields.io/badge/CONTACT-EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyeolouwa.assogba@groupe-esigelec.org)
 
@@ -29,24 +29,28 @@
 
 ### Mon Parcours en Histoire
 
-* **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**[cite: 2]  
-  J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri[cite: 2]. Curieuse de comprendre comment la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies[cite: 2]. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide[cite: 2].
+* **2024 — 2025 : L'exploration au sein du Club d'IA et de l'École d'Été (EEIA)**[cite: 2]  
+  J'ai débuté en modélisant, entraînant et évaluant des modèles de machine learning sur des cas d'usage réels[cite: 2]. Curieuse de concevoir des algorithmes d'optimisation et d'intégrer des capteurs embarqués, j'ai exploré les architectures deep learning et le traitement de données massives sous Python pour l'aide à la décision[cite: 2].
 * **Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**[cite: 2]  
   J'ai découvert la réalité des infrastructures sur site en m'occupant de l'installation et de la maintenance de systèmes de sécurité et d'automatismes[cite: 2]. Face aux pannes, j'ai dû analyser techniquement les réseaux, diagnostiquer des composants électroniques sensibles et appliquer des protocoles de maintenance prédictive pour calibrer les machines[cite: 2].
+* **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**[cite: 2]  
+  J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri[cite: 2]. Curieuse de comprendre comment la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies[cite: 2]. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide[cite: 2].
 
 ---
 
 ### Mes Projets & Réalisations GitHub
 
-* **Grading Visuel par IA**[cite: 2] — J'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés[cite: 2]. En explorant la vision par ordinateur, j'ai mis en place une détection de micro-rayures par YOLOv8 couplée à une classification instantanée par grades (A, B, C) pour standardiser l'atelier avec un score de réussite de 92 %[cite: 2].
-* **Cotes & Prédiction de Prix**[cite: 2] — Je me suis penchée sur la valorisation des terminaux mobiles en concevant un modèle de régression sous Scikit-Learn[cite: 2]. Après un travail approfondi d'analyse exploratoire et de *feature engineering*, l'algorithme évalue de manière prédictive la valeur de revente avec un score de 80 %[cite: 2].
-* **Bras Robotique (EEIA)**[cite: 2] — Dans le cadre de l'École d'Été, j'ai voulu donner vie au matériel en programmant le tri automatisé de composants électroniques[cite: 2]. J'ai combiné la détection visuelle sous YOLOv8 et une commande automatisée par microcontrôleur ESP32 pour atteindre un taux de précision de 95 %[cite: 2].
+* **Classification d'intentions BCI sur signaux EEG**[cite: 4] — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) pour classifier en temps réel l'imagination motrice à partir de signaux électroencéphalographiques[cite: 4].
+* **Prédiction de prix de vente de smartphone**[cite: 4] — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning[cite: 4].
+* **Industrial QA Autoencoder**[cite: 4] — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD)[cite: 4].
+* **Drowsiness Detector**[cite: 4] — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar[cite: 4].
+* **Grading Visuel par IA (CV)**[cite: 2] — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %)[cite: 2].
 
 ---
 
 ### Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a>
+  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
 </div>
