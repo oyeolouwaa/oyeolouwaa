@@ -10,6 +10,16 @@
 
 ---
 
+### Objectif Alternance
+
+- **Domaine :** Intelligence Artificielle & Big Data
+- **Durée :** 36 mois (novembre 2026)
+- **Disponibilité :** Immédiate
+- **Mobilité :** Toute la France
+- **École :** ESIGELEC, Poitiers — Cycle ingénieur 1ère année (BAC+3)
+
+---
+
 ### À propos
 
 « Élève-ingénieure à l'ESIGELEC, je vis chaque ligne de code comme une nouvelle pièce d'un puzzle complexe. Curieuse et passionnée par la structure des données et la vision par ordinateur, j'ai voulu faire de ce profil l'histoire vivante de mon parcours, de mes premiers pas industriels jusqu'à mes créations algorithmiques. »
@@ -36,7 +46,7 @@
 - **Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**  
   J'ai découvert la réalité des infrastructures sur site en m'occupant de l'installation et de la maintenance de systèmes de sécurité et d'automatismes. Face aux pannes, j'ai dû analyser techniquement les réseaux, diagnostiquer des composants électroniques sensibles et appliquer des protocoles de maintenance prédictive pour calibrer les machines.
 - **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**  
-  J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri. Curieuse de comprendre comment la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide.
+  J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri. Curieuse de comprendre quand la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide.
 
 ---
 
@@ -52,16 +62,16 @@
 
 ### Certifications & Langues
 
-- **Certifications :** 
-  - TOEFL iBT — 100/120 (2026)[cite: 2]
-  - Learn AI Through Visualization — Columbia University *(en cours)*[cite: 2]
-  - Certification Machine Learning Engineer (Lauréate Bourse DataCamp ISHEROO) *(en cours)*[cite: 2]
-- **Langues :** 
-  - Français *(langue maternelle)*[cite: 2]
-  - Anglais *(C1 / TOEFL iBT 100)*[cite: 2]
-  - Fon *(courant)*[cite: 2]
-  - Yoruba *(courant)*[cite: 2]
-  - Espagnol *(A2)*[cite: 2]
+- **Certifications :**
+  - TOEFL iBT — 100/120 (2026)
+  - Learn AI Through Visualization — Columbia University *(en cours)*
+  - Certification Machine Learning Engineer (Lauréate Bourse DataCamp ISHEROO) *(en cours)*
+- **Langues :**
+  - Français *(langue maternelle)*
+  - Anglais *(C1 / TOEFL iBT 100)*
+  - Fon *(courant)*
+  - Yoruba *(courant)*
+  - Espagnol *(A2)*
 
 ---
 
