@@ -10,13 +10,13 @@
 
 ---
 
-### 🎯 Objectif Alternance
+### 💼 Objectif Alternance
 
-- **Domaine :** Intelligence Artificielle & Big Data
-- **Durée :** 36 mois (novembre 2026)
-- **Disponibilité :** Immédiate
-- **Mobilité :** Toute la France
-- **École :** ESIGELEC, Poitiers — Cycle ingénieur 1ère année (BAC+3)
+- **💻 Domaine :** Intelligence Artificielle & Big Data
+- **⏳ Durée :** 36 mois (novembre 2026)
+- **⚡ Disponibilité :** Immédiate
+- **📍 Mobilité :** Toute la France
+- **🎓 École :** ESIGELEC, Poitiers — Cycle ingénieur 1ère année (BAC+3)
 
 ---
 
