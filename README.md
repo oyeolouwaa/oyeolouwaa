@@ -2,9 +2,9 @@
 
 <img src="assets/banner.svg" alt="Banner" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/PROFIL-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyéassogba)
-[![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_36_MOIS_(NOV._2026)-2563eb?style=for-the-badge&logo=target&logoColor=white)](https://raw.githubusercontent.com/oyeolouwaa/oyeolouwaa/main/CV.pdf)
-[![Contact](https://img.shields.io/badge/CONTACT-EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyeolouwa.assogba@groupe-esigelec.org)
+<a href="https://linkedin.com/in/oyéassogba"><img src="https://img.shields.io/badge/PROFIL-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://raw.githubusercontent.com/oyeolouwaa/oyeolouwaa/main/CV.pdf"><img src="https://img.shields.io/badge/RECHERCHE-ALTERNANCE_36_MOIS_(NOV._2026)-2563eb?style=for-the-badge&logo=target&logoColor=white" alt="Alternance"></a>
+<a href="mailto:oyeolouwa.assogba@groupe-esigelec.org"><img src="https://img.shields.io/badge/CONTACT-EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -31,22 +31,37 @@
 
 ### Mon Parcours en Histoire
 
-* **2024 — 2025 : L'exploration au sein du Club d'IA et de l'École d'Été (EEIA)**  
+- **2024 — 2025 : L'exploration au sein du Club d'IA et de l'École d'Été (EEIA)**  
   J'ai débuté en modélisant, entraînant et évaluant des modèles de machine learning sur des cas d'usage réels. Curieuse de concevoir des algorithmes d'optimisation et d'intégrer des capteurs embarqués, j'ai exploré les architectures deep learning et le traitement de données massives sous Python pour l'aide à la décision.
-* **Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**  
+- **Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**  
   J'ai découvert la réalité des infrastructures sur site en m'occupant de l'installation et de la maintenance de systèmes de sécurité et d'automatismes. Face aux pannes, j'ai dû analyser techniquement les réseaux, diagnostiquer des composants électroniques sensibles et appliquer des protocoles de maintenance prédictive pour calibrer les machines.
-* **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**  
+- **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**  
   J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri. Curieuse de comprendre comment la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide.
 
 ---
 
 ### Mes Projets & Réalisations GitHub
 
-* **Classification d'intentions BCI sur signaux EEG** — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) appliqué à des signaux électroencéphalographiques, portant spécifiquement sur l'imagination des mouvements de la main gauche et de la main droite, de la phase de filtrage jusqu'à la gestion avancée du signal.
-* **Prédiction de prix de vente de smartphone** — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning.
-* **Industrial QA Autoencoder** — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD).
-* **Grading Visuel par IA (CV)** — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %).
-* **Drowsiness Detector** — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar.
+- **Classification d'intentions BCI sur signaux EEG** — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) appliqué à des signaux électroencéphalographiques, portant spécifiquement sur l'imagination des mouvements de la main gauche et de la main droite, de la phase de filtrage jusqu'à la gestion avancée du signal.
+- **Prédiction de prix de vente de smartphone** — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning.
+- **Industrial QA Autoencoder** — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD).
+- **Drowsiness Detector** — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar.
+- **Grading Visuel par IA (CV)** — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %).
+
+---
+
+### Certifications & Langues
+
+- **Certifications :** 
+  - TOEFL iBT — 100/120 (2026)[cite: 2]
+  - Learn AI Through Visualization — Columbia University *(en cours)*[cite: 2]
+  - Certification Machine Learning Engineer (Lauréate Bourse DataCamp ISHEROO) *(en cours)*[cite: 2]
+- **Langues :** 
+  - Français *(langue maternelle)*[cite: 2]
+  - Anglais *(C1 / TOEFL iBT 100)*[cite: 2]
+  - Fon *(courant)*[cite: 2]
+  - Yoruba *(courant)*[cite: 2]
+  - Espagnol *(A2)*[cite: 2]
 
 ---
 
