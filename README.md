@@ -43,4 +43,14 @@
 * **Classification d'intentions BCI sur signaux EEG** — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) pour classifier en temps réel l'imagination motrice à partir de signaux électroencéphalographiques.
 * **Prédiction de prix de vente de smartphone** — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning.
 * **Industrial QA Autoencoder** — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD).
-* **Drowsiness Detector** — J'ai développé un outil de
+* **Drowsiness Detector** — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar.
+* **Grading Visuel par IA (CV)** — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %).
+
+---
+
+### Statistiques & Activité
+
+<div align="center">
+  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a>
+  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
+</div>
