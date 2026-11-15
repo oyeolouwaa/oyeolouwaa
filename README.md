@@ -51,6 +51,6 @@
 ### Statistiques & Activité
 
 <div align="center">
-  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" /></a>
-  <a href="https://linkedin.com/in/oyéassogba"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
