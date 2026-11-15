@@ -51,5 +51,6 @@
 ### Statistiques & Activité
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profil_Actif-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Active Profile">
+  <a href="https://github.com/oyeolouwaa"><img src="https://img.shields.io/badge/PROFIL-GITHUB-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub"></a>
+  <a href="https://linkedin.com/in/oyéassogba"><img src="https://linkedin.com/in/oyéassogba"><img src="https://img.shields.io/badge/PROFIL-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
