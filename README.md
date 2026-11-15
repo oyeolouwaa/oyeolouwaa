@@ -51,6 +51,5 @@
 ### Statistiques & Activité
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyeolouwaa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyeolouwaa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/GitHub-Profil_Actif-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Active Profile">
 </div>
