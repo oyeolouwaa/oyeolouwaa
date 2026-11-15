@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Oyéolouwa Assogba — AI and Big Data">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090D1B"/>
+      <stop offset="55%" stop-color="#17102F"/>
+      <stop offset="100%" stop-color="#0B1729"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8B5CF6"/>
+      <stop offset="55%" stop-color="#A78BFA"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity=".32"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="930" cy="175" r="250" fill="url(#halo)"/>
+  <g stroke="#A78BFA" stroke-opacity=".32" stroke-width="1.5" fill="none">
+    <path d="M760 72 L850 125 L960 78 L1060 145 L1140 95"/>
+    <path d="M720 185 L820 235 L930 170 L1040 235 L1140 195"/>
+    <path d="M790 300 L870 255 L980 305 L1080 255 L1160 290"/>
+    <path d="M850 125 L820 235 L870 255"/>
+    <path d="M960 78 L930 170 L980 305"/>
+    <path d="M1060 145 L1040 235 L1080 255"/>
+  </g>
+  <g fill="#22D3EE">
+    <circle cx="760" cy="72" r="4"/><circle cx="850" cy="125" r="5"/>
+    <circle cx="960" cy="78" r="4"/><circle cx="1060" cy="145" r="5"/>
+    <circle cx="1140" cy="95" r="4"/><circle cx="720" cy="185" r="4"/>
+    <circle cx="820" cy="235" r="5"/><circle cx="930" cy="170" r="6"/>
+    <circle cx="1040" cy="235" r="4"/><circle cx="1140" cy="195" r="5"/>
+    <circle cx="790" cy="300" r="4"/><circle cx="870" cy="255" r="5"/>
+    <circle cx="980" cy="305" r="4"/><circle cx="1080" cy="255" r="5"/>
+    <circle cx="1160" cy="290" r="4"/>
+  </g>
+  <g fill="#A78BFA" opacity=".8">
+    <circle cx="930" cy="170" r="13" opacity=".14"/>
+    <circle cx="930" cy="170" r="8"/>
+  </g>
+  <text x="72" y="105" fill="#C4B5FD" font-family="Segoe UI, Arial, sans-serif" font-size="17" letter-spacing="5">AI &amp; BIG DATA ENGINEERING</text>
+  <text x="68" y="176" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">OYÉOLUWA</text>
+  <text x="68" y="235" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700">ASSOGBA</text>
+  <rect x="72" y="260" width="300" height="3" rx="2" fill="url(#glow)"/>
+  <text x="72" y="300" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="20">Building intelligence. Discovering patterns.</text>
+  <text x="72" y="330" fill="#94A3B8" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2">ESIGELEC · POITIERS, FRANCE</text>
+  <style>
+    @keyframes breathe { 0%,100% { opacity:.45 } 50% { opacity:1 } }
+    circle { animation: breathe 3.8s ease-in-out infinite; }
+  </style>
+</svg>
