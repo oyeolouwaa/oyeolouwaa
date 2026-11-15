@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Banner" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/PROFIL-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oyéassogba)
-[![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_36_MOIS_(NOV._2026)-2563eb?style=for-the-badge&logo=target&logoColor=white)](LIEN_VERS_TON_CV_EN_PDF)
+[![Alternance](https://img.shields.io/badge/RECHERCHE-ALTERNANCE_36_MOIS_(NOV._2026)-2563eb?style=for-the-badge&logo=target&logoColor=white)](assets/CV.pdf)
 [![Contact](https://img.shields.io/badge/CONTACT-EMAIL-db2777?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oyeolouwa.assogba@groupe-esigelec.org)
 
 </div>
