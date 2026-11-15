@@ -10,7 +10,7 @@
 
 ---
 
-### Objectif Alternance
+### 🎯 Objectif Alternance
 
 - **Domaine :** Intelligence Artificielle & Big Data
 - **Durée :** 36 mois (novembre 2026)
@@ -20,13 +20,13 @@
 
 ---
 
-### À propos
+### 💡 À propos
 
 « Élève-ingénieure à l'ESIGELEC, je vis chaque ligne de code comme une nouvelle pièce d'un puzzle complexe. Curieuse et passionnée par la structure des données et la vision par ordinateur, j'ai voulu faire de ce profil l'histoire vivante de mon parcours, de mes premiers pas industriels jusqu'à mes créations algorithmiques. »
 
 ---
 
-### Arsenal Technique
+### ⚙️ Arsenal Technique
 
 | Domaine | Technologies |
 | :--- | :--- |
@@ -39,43 +39,43 @@
 
 ---
 
-### Mon Parcours en Histoire
+### 🧭 Mon Parcours en Histoire
 
-- **2024 — 2025 : L'exploration au sein du Club d'IA et de l'École d'Été (EEIA)**  
+- **🎓 2024 — 2025 : L'exploration au sein du Club d'IA et de l'École d'Été (EEIA)**  
   J'ai débuté en modélisant, entraînant et évaluant des modèles de machine learning sur des cas d'usage réels. Curieuse de concevoir des algorithmes d'optimisation et d'intégrer des capteurs embarqués, j'ai exploré les architectures deep learning et le traitement de données massives sous Python pour l'aide à la décision.
-- **Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**  
+- **🏭 Juil. — Août 2025 : L'épreuve de la rigueur industrielle chez SAGAM Sécurité**  
   J'ai découvert la réalité des infrastructures sur site en m'occupant de l'installation et de la maintenance de systèmes de sécurité et d'automatismes. Face aux pannes, j'ai dû analyser techniquement les réseaux, diagnostiquer des composants électroniques sensibles et appliquer des protocoles de maintenance prédictive pour calibrer les machines.
-- **Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**  
+- **🤖 Juil. — Août 2026 : Au cœur de l'IA et de la robotique chez Bénin Excellence**  
   J'ai intégré l'équipe pour participer au développement de solutions d'IA et de systèmes robotisés intelligents destinés à automatiser les tâches de tri. Curieuse de comprendre quand la machine interprète son environnement, j'ai dû implémenter des modèles de machine learning et de computer vision pour analyser les flux visuels et détecter des anomalies. J'en ai également profité pour accompagner techniquement les apprenants et formaliser des ressources de prototypage rapide.
 
 ---
 
-### Mes Projets & Réalisations GitHub
+### 🚀 Mes Projets & Réalisations GitHub
 
-- **Classification d'intentions BCI sur signaux EEG** — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) appliqué à des signaux électroencéphalographiques, portant spécifiquement sur l'imagination des mouvements de la main gauche et de la main droite, de la phase de filtrage jusqu'à la gestion avancée du signal.
-- **Prédiction de prix de vente de smartphone** — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning.
-- **Industrial QA Autoencoder** — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD).
-- **Drowsiness Detector** — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar.
-- **Grading Visuel par IA (CV)** — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %).
+- **🧠 Classification d'intentions BCI sur signaux EEG** — J'ai voulu explorer les interfaces cerveau-machine en développant un pipeline de NeuroTech (CSP + LDA) appliqué à des signaux électroencéphalographiques, portant spécifiquement sur l'imagination des mouvements de la main gauche et de la main droite, de la phase de filtrage jusqu'à la gestion avancée du signal.
+- **📱 Prédiction de prix de vente de smartphone** — Je me suis penchée sur la valorisation e-commerce en concevant une application web interactive d'estimation des prix de vente basée sur le Machine Learning.
+- **🔬 Industrial QA Autoencoder** — J'ai voulu automatiser le contrôle qualité en mettant en place un pipeline de vision industrielle non supervisé sous PyTorch, combinant des auto-encodeurs convolutifs pour détecter les anomalies sur des objets manufacturés (dataset MVTec AD).
+- **🚗 Drowsiness Detector** — J'ai développé un outil de sécurité en Python combinant Streamlit et OpenCV pour surveiller la vigilance d'un conducteur en temps réel grâce à l'analyse du flux webcam et des classifieurs de Haar.
+- **📸 Grading Visuel par IA (CV)** — Dans le cadre de mon parcours, j'ai voulu automatiser le contrôle esthétique de smartphones reconditionnés par détection de micro-rayures (YOLOv8) et classification instantanée par grades (Score : 92 %).
 
 ---
 
-### Certifications & Langues
+### 📜 Certifications & 🌍 Langues
 
 - **Certifications :**
-  - TOEFL iBT — 100/120 (2026)
-  - Learn AI Through Visualization — Columbia University *(en cours)*
-  - Certification Machine Learning Engineer (Lauréate Bourse DataCamp ISHEROO) *(en cours)*
+  - 🏆 [![TOEFL iBT](https://img.shields.io/badge/TOEFL_iBT-100%2F120_(2026)-2563eb?style=flat-square&logo=readthedocs&logoColor=white)](https://raw.githubusercontent.com/oyeolouwaa/oyeolouwaa/main/CV.pdf)
+  - 🏆 [![DataCamp](https://img.shields.io/badge/DataCamp-ML_Engineer_(En_cours)-f97316?style=flat-square&logo=datacamp&logoColor=white)](https://raw.githubusercontent.com/oyeolouwaa/oyeolouwaa/main/CV.pdf)
+  - 🏆 [![Columbia University](https://img.shields.io/badge/Columbia_Uni-AI_Through_Visualization_(En_cours)-0f172a?style=flat-square&logo=coursera&logoColor=white)](https://raw.githubusercontent.com/oyeolouwaa/oyeolouwaa/main/CV.pdf)
 - **Langues :**
-  - Français *(langue maternelle)*
-  - Anglais *(C1 / TOEFL iBT 100)*
-  - Fon *(courant)*
-  - Yoruba *(courant)*
-  - Espagnol *(A2)*
+  - 🇫🇷 Français *(langue maternelle)*
+  - 🇺🇸 Anglais *(C1 / TOEFL iBT 100)*
+  - 🇧🇯 Fon *(courant)*
+  - 🇧🇯 Yoruba *(courant)*
+  - 🇪🇸 Espagnol *(A2)*
 
 ---
 
-### Statistiques & Activité
+### 📊 Statistiques & Activité
 
 <div align="center">
   <a href="https://github.com/oyeolouwaa"><img src="https://img.shields.io/badge/PROFIL-GITHUB-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Profil GitHub"></a>
